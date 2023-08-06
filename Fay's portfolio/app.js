@@ -1,5 +1,5 @@
 // Get the button and content elements
-const rick = document.getElementById("rick");
+const fay = document.getElementById("fay");
 
 // Function to simulate typing effect
 function typeWriter(element, text, index, speed) {
@@ -12,7 +12,7 @@ function typeWriter(element, text, index, speed) {
 
 // Typing effect on rackroll_ text
 const rickrolling = "Fay Bunyanan";
-typeWriter(rick, rickrolling, 0, 50);
+typeWriter(fay, rickrolling, 0, 50);
 
 const sections = document.querySelectorAll('section');
 const navLinks = document.querySelectorAll('nav a');
